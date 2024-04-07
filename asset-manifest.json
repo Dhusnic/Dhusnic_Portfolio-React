@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Dhusnic_Portfolio-React/static/css/main.0d286aed.css",
+    "main.js": "/Dhusnic_Portfolio-React/static/js/main.19c92b14.js",
+    "static/js/453.1407b060.chunk.js": "/Dhusnic_Portfolio-React/static/js/453.1407b060.chunk.js",
+    "static/media/dhusnic_two.jpg": "/Dhusnic_Portfolio-React/static/media/dhusnic_two.49767f1e7e1692853b4b.jpg",
+    "static/media/bg.jpg": "/Dhusnic_Portfolio-React/static/media/bg.ff5359c449b53f1da0da.jpg",
+    "static/media/resume.pdf": "/Dhusnic_Portfolio-React/static/media/resume.6a0c3e00119bb62e79d0.pdf",
+    "static/media/spac.jpg": "/Dhusnic_Portfolio-React/static/media/spac.79a67e8cc060d1ca4801.jpg",
+    "static/media/resume.png": "/Dhusnic_Portfolio-React/static/media/resume.0ee037dc572d46276dc8.png",
+    "static/media/labview.png": "/Dhusnic_Portfolio-React/static/media/labview.9b7ac5342ed985f2f78c.png",
+    "static/media/dhusnic.jpg": "/Dhusnic_Portfolio-React/static/media/dhusnic.7c8b7466529db7d9a659.jpg",
+    "static/media/dhusnic2.png": "/Dhusnic_Portfolio-React/static/media/dhusnic2.02893a41006d38110355.png",
+    "static/media/autocad.jpg": "/Dhusnic_Portfolio-React/static/media/autocad.df6eef91996fede05f83.jpg",
+    "static/media/resume2.pdf": "/Dhusnic_Portfolio-React/static/media/resume2.5eb5635e68c3fd7523dd.pdf",
+    "static/media/Manipal.jpg": "/Dhusnic_Portfolio-React/static/media/Manipal.f57e6b72da671be2a229.jpg",
+    "static/media/Sakthisugars.jpg": "/Dhusnic_Portfolio-React/static/media/Sakthisugars.1221d02986da81f5c3d0.jpg",
+    "static/media/CEG Paper Presentation.jpg": "/Dhusnic_Portfolio-React/static/media/CEG Paper Presentation.8cebdd6fef3eb3085eac.jpg",
+    "static/media/Realay Logic.jpg": "/Dhusnic_Portfolio-React/static/media/Realay Logic.5aa934a38d14b9e34409.jpg",
+    "static/media/CSWA.jpg": "/Dhusnic_Portfolio-React/static/media/CSWA.bed0a8c917e5769d4792.jpg",
+    "static/media/resume3.pdf": "/Dhusnic_Portfolio-React/static/media/resume3.b9a667c11db3525e0a34.pdf",
+    "static/media/npteldip.jpg": "/Dhusnic_Portfolio-React/static/media/npteldip.2fb6d2adec79c59be597.jpg",
+    "static/media/SolidWorks.jpg": "/Dhusnic_Portfolio-React/static/media/SolidWorks.bb34a0f46df0348032f3.jpg",
+    "static/media/KEC iDEATHON.jpg": "/Dhusnic_Portfolio-React/static/media/KEC iDEATHON.c3c024a763065a1d46c2.jpg",
+    "static/media/resume2.png": "/Dhusnic_Portfolio-React/static/media/resume2.5e8189b7adcf28d76b87.png",
+    "static/media/IIT Patna.jpg": "/Dhusnic_Portfolio-React/static/media/IIT Patna.d832bb85feb9968fc5ea.jpg",
+    "static/media/resume3.png": "/Dhusnic_Portfolio-React/static/media/resume3.eadd2d103e15312defa0.png",
+    "static/media/nptel cloud computing.jpg": "/Dhusnic_Portfolio-React/static/media/nptel cloud computing.8ce415bb5c0751df799d.jpg",
+    "static/media/yugam.jpg": "/Dhusnic_Portfolio-React/static/media/yugam.bcd38a0e434b2dcdf30a.jpg",
+    "static/media/IIT BUBANESHWAR.jpg": "/Dhusnic_Portfolio-React/static/media/IIT BUBANESHWAR.d423c43422e87b581f32.jpg",
+    "index.html": "/Dhusnic_Portfolio-React/index.html",
+    "main.0d286aed.css.map": "/Dhusnic_Portfolio-React/static/css/main.0d286aed.css.map",
+    "main.19c92b14.js.map": "/Dhusnic_Portfolio-React/static/js/main.19c92b14.js.map",
+    "453.1407b060.chunk.js.map": "/Dhusnic_Portfolio-React/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d286aed.css",
+    "static/js/main.19c92b14.js"
+  ]
+}
