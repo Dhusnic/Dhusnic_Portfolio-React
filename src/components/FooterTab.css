@@ -1,0 +1,60 @@
+.footerTab
+{
+    width: 100vw;
+    height: 20vh;
+    background: rgba( 0, 0, 0,  );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 20px );
+    -webkit-backdrop-filter: blur( 20px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5rem;
+}
+
+.icon
+{
+    color: aqua;
+    width: 1.8rem;
+    height: 1.8rem;
+    border-radius: 0.1rem;
+}
+
+.socialIcon
+{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    width: 100vw;
+    justify-content: center;
+}
+.iconDiv
+{
+    width: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icon:hover
+{
+    box-shadow: 0 0 20px 5px aqua;
+
+}
+
+.phone-number {
+    display: none;
+    position: absolute;
+    top: 80%;
+    left: 70%;
+    transform: translateX(-50%);
+    background-color: #fff;
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+
+}
+
+.iconDiv:hover .phone-number{
+    display: block;
+  }

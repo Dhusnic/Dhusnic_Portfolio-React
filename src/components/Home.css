@@ -1,0 +1,179 @@
+.home{
+    width: 100vw;
+    position: relative;
+}
+.component
+{
+    display: inline-block;
+    margin-left: 90px;
+    margin-right: 90px;
+    width: 90vw;
+    margin-top: 50px;
+}
+.intro
+{
+    display: flex;
+    /* width:100vw; */
+    margin-top: 40px;
+    justify-content: space-between;
+
+
+}
+.img_container
+{
+    display: flex;
+    margin: 0px;
+    /* background-color: black; */
+    border-radius: 80px;
+    width: 30%;
+}
+.introImg
+{
+    width: 400px;
+    height: 600px;
+    /* margin: 10px; */
+    border-radius: 30px;
+    box-shadow: 100px;
+
+
+}
+
+.introImg:hover
+{
+    /* width: 420px; */
+    height: 620px;
+    border-radius: 30px;
+    box-shadow: 100px;
+    box-shadow: 0 0 20px 5px aqua;
+}
+.introAbout
+{
+    text-align: bottom;
+    font-size: 20px;
+    /* width: 70%; */
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.title
+{
+    text-decoration: underline;
+    color: whitesmoke;
+    font-weight: 1000;
+    text-align: center;
+}
+
+.title:hover
+{
+    text-shadow: 0 0 4px aqua;
+
+}
+.title_first
+{
+    height: 10%;
+    font-size: 40px;
+    font-weight: 1000;
+    font-style: italic;
+    color: aqua;
+}
+
+.title_second
+{
+    font-weight: 700;
+    color: whitesmoke;
+}
+
+.descrip
+{
+    font-weight: 600;
+    color: azure;
+    justify-content: center;
+    width: 700px;
+
+}
+
+.aboutComponent
+{
+    display: flex;
+    width:100vw;
+    margin-top: 100px; 
+    justify-content: space-between;
+}
+
+.aboutImg
+{
+    width: 400px;
+    height: 400px;
+    border-radius: 30px;
+    box-shadow: 100px;
+    
+}
+.aboutImg:hover
+{
+    width: 420px;
+    height: 420px;
+    border-radius: 30px;
+    box-shadow: 100px;
+    box-shadow: 0 0 20px 5px aqua;
+}
+.aboutComponentAbout
+{
+    display: flex;
+    text-align: bottom;
+    font-size: 20px;
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-left: 0%;
+    
+}
+
+.skills
+{
+    margin-top: 100px;
+
+}
+
+.skillsAbout
+{
+    justify-content: center;
+    display: flex;
+
+
+}
+
+.skills:hover
+{
+    justify-content: center;
+    display: flex; 
+}
+
+.webCards
+{
+    display: flex;
+    width:1100px;
+    justify-content: space-between;
+}
+.leetcode{
+ margin-right: 30px;
+}
+.leetcodeCard
+{
+   width: 500px;
+   height: 325px;
+
+
+
+}
+.leetcode:hover
+{
+    box-shadow: 0 0 20px 5px aqua;
+
+}
+
+.gitCard:hover
+{
+    box-shadow: 0 0 20px 5px aqua;
+}

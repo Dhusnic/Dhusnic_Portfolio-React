@@ -1,0 +1,20 @@
+.gridItemsContainer
+{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding-top: 10vh;
+}
+
+.gridItems
+{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 3rem;
+}
+
+.iconLogo
+{
+    width: 20rem;
+    height: 10rem;
+    color: aqua;
+}

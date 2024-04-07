@@ -1,0 +1,57 @@
+.Navlist
+{
+    list-style: none;
+    background-color: whitesmoke;
+    margin: 0px;
+    height: 50px;
+    width: 93vw;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    border-radius:0px 200px 200px 0px;
+    position: fixed ;
+    z-index: 1;
+    
+}
+
+.butli
+{
+    margin: 60px;
+    font-size: 18px;
+    margin-left: 0px;
+    background-color: whitesmoke;
+    color: #3667c2;
+    border-radius: 6px;
+    text-transform: uppercase;
+
+}
+.butli:hover
+{
+    font-size: 20px;
+    color: whitesmoke;
+    background-color: rgb(0, 0, 0) ;
+    border-radius: 6px;
+    box-shadow: 0 0 10px 2px aqua;
+
+    /* margin-right: 7000px; */
+}
+
+button
+{
+    font-size: 15px;
+    border-style: none;
+    background-color: white;
+    
+}
+
+.burger
+{
+    color:black;
+}
+
+.burger:hover
+{
+    color: blueviolet;
+    background-color: black;
+    border-radius: 4px;
+}
